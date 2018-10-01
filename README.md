@@ -4,7 +4,7 @@
 
 This project developed in C# for getting system information using Windows WMI Service.
 
-**Note :** WMI is a windows service , disbled or stopped WMI service will cause this project to not working properly.
+**Note :** WMI is a windows service , **disbled or stopped WMI service** will cause this project to not working properly.
 
 
 
