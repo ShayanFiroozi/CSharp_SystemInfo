@@ -6,11 +6,11 @@ This project develope in C# for getting system information using Windows WMI Ser
 
 
 
-
-
+ 
+ 
 
 **Contact Info :**
 
-Developer : Shayan Firoozi , Bandar Abbas , Iran.
-Phone : +98(936)517-5800
-Email : Shayan.Firoozi@gmail.com
+ Developer : Shayan Firoozi , Bandar Abbas , Iran.
+ Phone : +98(936)517-5800
+ Email : Shayan.Firoozi@gmail.com
