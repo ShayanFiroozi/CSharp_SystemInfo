@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singonet.ir.SysInfo", "Singonet.ir.SysInfo\Singonet.ir.SysInfo.csproj", "{33F969AD-4F9A-419C-8D74-2EFE4C569383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SysInfo_Test", "Info_Test\SysInfo_Test.csproj", "{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33F969AD-4F9A-419C-8D74-2EFE4C569383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33F969AD-4F9A-419C-8D74-2EFE4C569383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33F969AD-4F9A-419C-8D74-2EFE4C569383}.Debug|x86.ActiveCfg = Debug|x86
+		{33F969AD-4F9A-419C-8D74-2EFE4C569383}.Debug|x86.Build.0 = Debug|x86
+		{33F969AD-4F9A-419C-8D74-2EFE4C569383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33F969AD-4F9A-419C-8D74-2EFE4C569383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33F969AD-4F9A-419C-8D74-2EFE4C569383}.Release|x86.ActiveCfg = Release|x86
+		{33F969AD-4F9A-419C-8D74-2EFE4C569383}.Release|x86.Build.0 = Release|x86
+		{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}.Debug|x86.ActiveCfg = Debug|x86
+		{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}.Debug|x86.Build.0 = Debug|x86
+		{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}.Release|x86.ActiveCfg = Release|x86
+		{FB19E5F3-224A-44E3-BFFA-7E7643AC628B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C4C971A-2F73-44B2-B6FF-9EA21321DF99}
+	EndGlobalSection
+EndGlobal
